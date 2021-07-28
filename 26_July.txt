@@ -29,3 +29,10 @@ Code execution in dotnet
 win 7 -> > .NET framework 3.5
 win 8 and  10 -> .NET framework 4
 
+-------------------------------
+
+Adding Some Info To this file after uploading on git
+
+Mvc 
+Model View Controller
+
