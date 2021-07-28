@@ -1,0 +1,31 @@
+
+Code Execution step on windows
+
+1. Source code
+2. Compiler -. Machine Code
+3. Linker -> .exe
+4. Loader -> loads exe into RAM (Process)
+   (processer we see in task manager)
+5. Execution (CPU) -> Execute Thread
+
+----------------------------------------------------------------
+c, c++ -> main is fun
+
+c#, Java -> Method (coz it is in Class)
+----------------------------------------------------------------
+Dotnet(c#)
+Code execution in dotnet
+
+1. Source Code (.CS)
+2. Compile (CSC) -> .exe/dll (Assembly)
+   [not convert to machine code]
+   [Contain MS Intermidiate Language (Platform Independent) ]
+    
+   Portability (hardware independent) 
+   platform independent (software and Harware or diff environment)
+
+3. JIT -> Native Code
+
+win 7 -> > .NET framework 3.5
+win 8 and  10 -> .NET framework 4
+
